@@ -1,2 +1,14 @@
-# First-Quant-Trading-Engine
-My first dive into quantitative finance engineering. This repository contains a custom-built engine designed to process market data, signal generation, and order execution.  Currently focused on: Implementing [pairs trading strategy] and optimizing execution latency.
+# Quant Trading Engine
+
+## Overview
+Developing quantitative trading strategies using statistical models.
+
+## Current Work
+- Pairs Trading Strategy
+- Mean Reversion using Z-Score
+- Backtesting on simulated data
+
+## Future Scope
+- Real market data integration
+- Risk metrics (Sharpe Ratio, Drawdown)
+- Multi-asset strategies

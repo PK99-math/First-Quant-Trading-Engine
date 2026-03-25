@@ -1,3 +1,5 @@
+# Research Prototype v1.0
+# Risk Modeling Engine for Quantitative Trading
 # Quant Risk Engine
 # Monte Carlo Simulation + Value at Risk (VaR) + Expected Shortfall (ES)
 
